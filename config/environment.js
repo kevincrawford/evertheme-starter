@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'starter',
+    modulePrefix: 'evertheme',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
